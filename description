@@ -2,7 +2,8 @@ Package: cfbpredict
 Title: Predicts whether a team will run or pass
 Version: 0.0.0.9000
 Authors@R: "Glenna Fiddyment"
-Description: This package will analyze college football data and predict whether a team will run or pass the ball depending on the down and yards.
+Description: This package will analyze college football data and predict whether
+    a team will run or pass the ball depending on the down and yards.
 Depends: R (>= 3.1.2)
 License: CCO
 LazyData: true
