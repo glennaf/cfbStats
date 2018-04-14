@@ -1,5 +1,5 @@
-Package: cfbpredict
-Title: Predicts whether a team will run or pass
+Package: cfbStats
+Title: Analyzes data from college football statistics
 Version: 0.0.0.9000
 Authors@R: "Glenna Fiddyment"
 Description: This package will analyze college football data and predict whether
