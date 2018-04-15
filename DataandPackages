@@ -1,0 +1,25 @@
+#cfbStats package
+#This code will load the data and the packages used
+
+cfbdata <- read.csv(https://raw.githubusercontent.com/keefeseanc/dataMining/master/CFB%202011%202016%20-%20Sheet1.csv)
+
+install.packages(broom)
+require(broom)
+
+install.packages(dplyr)
+require(dplyr)
+
+install.packages(tidyr)
+require(tidyr)
+
+install.packages(stringr)
+require(stringr)
+
+install.packages(knitr)
+require(knitr)
+
+install.packages(ggplot2)
+require(ggplot2)
+
+install.packages(lattice)
+require(lattice)
