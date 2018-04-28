@@ -1,0 +1,10 @@
+Package: cfbStats2
+Title: Analyzes data from college football statistics
+Version: 0.0.0.9000
+Authors@R: person("Glenna", "Fiddyment", email = "glennaf@mail.usf.edu", role = c("aut", "cre"))
+Description: This package will analyze college football data and provide visuals
+Depends: R (>= 3.4.3)
+License: CCO
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
